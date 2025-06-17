@@ -1,0 +1,16 @@
+.arrow:hover{
+    cursor: url('assets/click.png') 32 32, auto;
+}
+
+.gallery-pic {
+    max-height:100%; max-width: 80%
+}
+
+.gallery {
+    height: 70vh; width: 99vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px 0 10px;
+    overflow:hidden;
+}
