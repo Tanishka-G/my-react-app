@@ -1,16 +1,16 @@
 import { useState} from "react"
 import './Gallery.css'
-import eating from './assets/eating.gif'
-import guitar from './assets/guitar.gif'
-import f1 from './assets/f1.png'
-import movies from './assets/movies.gif'
+import pic4 from './assets/pic-1.jpg'
+import pic3 from './assets/pic-2.jpg'
+import pic1 from './assets/pic-3.jpg'
+import pic2 from './assets/pic-4.jpg'
 import left from './assets/left-arrow.png'
 import right from './assets/right-arrow.png'
 
 
 function Gallery(){
     const [picIndex, setPicIndex] = useState(0);
-    const imageArray = [eating, guitar, f1, movies];
+    const imageArray = [pic1, pic2, pic3, pic4];
 
     return(
         <>
