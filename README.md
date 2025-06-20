@@ -1,5 +1,7 @@
 Portfolio website made with React, Typescript, Tailwind, HTML, CSS, & JavaScript.
 
+You can access the webpage at [my-react-app-ten-bay.vercel.app.](https://my-react-app-ten-bay.vercel.app/)
+
 Used the following free assets:
 <a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Roundicons Premium - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/content" title="content icons">Content icons created by Freepik - Flaticon</a>
