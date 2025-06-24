@@ -62,7 +62,7 @@ function Start() {
   return (
     <>
       <div className='start'> 
-          <p className="text-center text-7xl font-black">{text}</p>
+          <p className="text-center text-7xl">{text}</p>
           <div className='flex items-center justify-between londrina-solid-light'>
             <img src={aboutMe} className="w-1/4 h-1/4 component-image" alt="About me" onClick={handleAbout} style={{opacity : aboutOpacity}}/>
             <p className="component-text" style={{opacity : aboutOpacity}}>My name is Tanishka Ghosh and I'm currently a 4th-year Computer Science student at Dalhousie University. </p>
