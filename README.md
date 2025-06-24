@@ -15,7 +15,7 @@ Used the following free assets:
 <a href="https://www.flaticon.com/free-icons/leisure" title="leisure icons">Leisure icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/left-click" title="left-click icons">Left-click icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/people" title="people icons">People icons created by Creartive - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/double-arrow" title="double-arrow icons">Double-arrow icons created by alfanz - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/right-arrow" title="right-arrow icons">Right-arrow icons created by Hexagon075 - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/loupe" title="loupe icons">Loupe icons created by Tama Design - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/content" title="content icons">Content icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/software-development" title="software development icons">Software development icons created by vectorsmarket15 - Flaticon</a>
